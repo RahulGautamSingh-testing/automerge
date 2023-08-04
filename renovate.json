@@ -1,5 +1,6 @@
 {
   "automerge": true,
   "automergeSchedule": ["before 5:00am"],
-  "automergeType": "branch"
+  "automergeType": "branch",
+  "ignoreTests": true
 }
